@@ -1,7 +1,7 @@
 # atvZumbi
-Atividade para criar um processo zumbi num arquivo C e executar com makefile.
+Atividade para criar um processo zumbi num arquivo C e executar com makefile.\n
 Para executar tente:
 
-  make (compilar o arquivo em C)
-  ./execute (executar o arquivo em C)
-  ps -l (para mostrar o estado dos processos)
+  \nmake (compilar o arquivo em C)
+  \n./execute (executar o arquivo em C)
+  \nps -l (para mostrar o estado dos processos)
